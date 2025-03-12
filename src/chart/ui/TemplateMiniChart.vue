@@ -45,7 +45,7 @@ const props = defineProps<{
 	payloadValues?: any
 	title?: string
 	colorLine?: any
-	typeChart?:a
+	typeChart?:any
 }>()
 
 const colorLine = computed(() => {

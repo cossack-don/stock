@@ -37,12 +37,7 @@ const props = defineProps<{
 
 
 <style scoped>
-* {
-	box-sizing: border-box;
-	padding: 0;
-	margin: 0;
 
-}
 
 .current-price {
 	color:#00a328;

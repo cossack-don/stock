@@ -9,7 +9,7 @@ body {
     font-optical-sizing: auto;
     font-weight: normal;
     font-style: normal;
-    padding: 60px;
+    /*padding: 60px;*/
 }
 
 /*ADAPTIVE*/
@@ -42,6 +42,6 @@ body {
 
 @media (min-width: 1200px) {
     .grid-container {
-        grid-template-columns: repeat(3, 1fr); /* 4 колонки на экранах от 1200px */
+        grid-template-columns: repeat(2, 1fr); /* 4 колонки на экранах от 1200px */
     }
 }
